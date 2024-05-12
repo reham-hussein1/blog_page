@@ -1,0 +1,131 @@
+#logo {
+  font-size: 25px;
+  padding-right: 100px;
+  font-weight: 600;
+}
+#get-start {
+  background-color: blue;
+  border-color: blue;
+  border-radius: 5px;
+}
+
+#nav-link {
+  color: black;
+}
+
+#top-container-div {
+  background-color: black;
+  color: white;
+}
+#start-end {
+  position: relative;
+  .i {
+    position: absolute;
+    left: 50%;
+  }
+}
+#mg-top {
+  padding-top: 10px;
+}
+.div-one {
+  background-image: url(cover.jpg);
+  width: 100%;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+#navbar {
+  padding-left: 100px;
+  padding-right: 100px;
+  background-color: white;
+  position: absolute;
+  top: 3%;
+  right: 10%;
+  /* display: stiky; */
+}
+h1 {
+  position: absolute;
+  color: white;
+  font-weight: 600;
+  bottom: 10%;
+  left: 42%;
+}
+.div-one-2 {
+  position: absolute;
+  background-color: rgba(0, 0, 255, 0.288);
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+.blue {
+  color: blue;
+}
+.nav-cont {
+  margin: 0 100px;
+}
+.div-flex {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  bottom: 3%;
+  left: 47%;
+  font-size: 20px;
+}
+.div-flex-3 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.img-div-flex-3 {
+  width: 350px;
+  height: 300px;
+}
+#mg-topp {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.flex-sec {
+  position: relative;
+  margin-bottom: 150px;
+}
+.num-flex {
+  display: flex;
+  color: orange;
+  justify-content: space-between;
+  width: 300px;
+  text-align: center;
+  position: absolute;
+  right: 37%;
+  div {
+    width: 30px;
+    height: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.322);
+    border-radius: 40px;
+  }
+}
+footer {
+  background-color: rgb(13, 13, 71);
+  color: white;
+  a {
+    color: white;
+  }
+}
+#footer {
+  padding-top: 30px;
+}
+.copy {
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 240px;
+}
+#foot-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+  background-color: rgba(14, 14, 15, 0.247);
+  text-align: center;
+  padding-top: 13px;
+}
